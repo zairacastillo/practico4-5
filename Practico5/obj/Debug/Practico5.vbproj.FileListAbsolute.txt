@@ -1,0 +1,36 @@
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\bin\Debug\Practico5.exe.config
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\bin\Debug\Practico5.exe
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\bin\Debug\Practico5.pdb
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\bin\Debug\Practico5.xml
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.vbprojAssemblyReference.cache
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.Formulario5.resources
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.cache
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.vbproj.CoreCompileInputs.cache
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.exe
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.xml
+D:\S3T3R\Documents\TP2\Practico 5\Practico5\Practico5\obj\Debug\Practico5.pdb
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\bin\Debug\Practico5.exe.config
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\bin\Debug\Practico5.exe
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\bin\Debug\Practico5.pdb
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\bin\Debug\Practico5.xml
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.vbprojAssemblyReference.cache
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.Formulario5.resources
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.cache
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.vbproj.CoreCompileInputs.cache
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.exe
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.xml
+D:\S3T3R\Documents\TP2\Practico 5 - DataGridView\Practico5\Practico5\obj\Debug\Practico5.pdb
+C:\taller2\Practico5\Practico5\bin\Debug\Practico5.exe.config
+C:\taller2\Practico5\Practico5\bin\Debug\Practico5.exe
+C:\taller2\Practico5\Practico5\bin\Debug\Practico5.pdb
+C:\taller2\Practico5\Practico5\bin\Debug\Practico5.xml
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.vbproj.AssemblyReference.cache
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.Formulario5.resources
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.cache
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.vbproj.CoreCompileInputs.cache
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.exe
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.xml
+C:\taller2\Practico5\Practico5\obj\Debug\Practico5.pdb
